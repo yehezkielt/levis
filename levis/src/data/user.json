@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "abc",
+        "name": "user1",
+        "username": "user1",
+        "email": "user1@mail.com",
+        "password": "user1"
+    },
+    {
+        "_id": "def",
+        "name": "user2",
+        "username": "user2",
+        "email": "user2@mail.com",
+        "password": "user2"
+    },
+    {
+        "_id": "ghi",
+        "name": "user3",
+        "username": "user3",
+        "email": "user3@mail.com",
+        "password": "user3"
+    }
+]
